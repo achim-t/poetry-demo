@@ -1,3 +1,7 @@
+# Poetry
+https://python-poetry.org/
+## Install Poetry
+`pip install poetry`
 ## Init
 `poetry init`
 ## Install Virtual Environment
